@@ -33,9 +33,9 @@
   /* Element Highlights */
   --tridactyl-hint-active-fg: none;
   --tridactyl-hint-active-bg: none;
-  --tridactyl-hint-active-outline: none;
+  --tridactyl-hint-active-outline: 1px solid var(--green);
   --tridactyl-hint-bg: none;
-  --tridactyl-hint-outline: 1px solid var(--tridactyl-hintspan-bg);
+  --tridactyl-hint-outline: 1px solid var(--green);
 }
 
 #command-line-holder {
