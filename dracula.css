@@ -35,7 +35,7 @@
   --tridactyl-hint-active-bg: none;
   --tridactyl-hint-active-outline: none;
   --tridactyl-hint-bg: none;
-  --tridactyl-hint-outline: none;
+  --tridactyl-hint-outline: 1px solid var(--tridactyl-hintspan-bg);
 }
 
 #command-line-holder {
